@@ -1,3 +1,3 @@
 # RocketShoes
 
-eCommerce em React e Redux desenvolvido no modulo 7 do bootcamp GoStack
+eCommerce em React e Redux e Hooks desenvolvido no modulo 8 do bootcamp GoStack
